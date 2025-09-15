@@ -61,7 +61,7 @@ brew services start mysql   # macOS
 
 ### 1. Clonar el repositorio
 ```bash
-git clone <tu-repositorio>
+git clone git@github.com:juanjo1307/api-foundry.git
 cd azure-foundry-backend
 ```
 
