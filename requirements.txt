@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+openai
+azure-ai-projects
+azure-identity
+sqlalchemy
+pymysql
+python-multipart
+alembic
